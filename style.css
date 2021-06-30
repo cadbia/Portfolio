@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
+    text-align: center;
+    }
+h1 {
+    font-weight: bold;
+    color: blue;
+}
+h3 {
+    font-weight: bold;
+    color: rgb(0, 255, 81);
+}
+div{
+    text-align: left
+}
