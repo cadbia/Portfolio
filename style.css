@@ -1,5 +1,7 @@
 body {
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
+    background-repeat: no-repeat;
+    background-size: 3000px 1000px;
     text-align: center;
     }
 h1 {
@@ -12,4 +14,8 @@ h3 {
 }
 div{
     text-align: left
+}
+.lang{
+     width: 250px;
+     height:115px;
 }
