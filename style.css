@@ -1,12 +1,15 @@
 body {
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
     background-repeat: no-repeat;
-    background-size: 3000px 1000px;
+    background-size: 3000px 2000px;
     text-align: center;
     }
 h1 {
     font-weight: bold;
     color: blue;
+}
+.profile{
+    margin: 500px;
 }
 .intro{
     font-weight: bold;
@@ -27,24 +30,4 @@ h1 {
     bottom: 10px;
     left: 10px;
 }
-.options{
-    margin:auto;
-    width: 30%;
-    height: 70%;
-    border: 3px solid green;
-}
-#python{
-  position: absolute;
-  top: 200px;
-  left: 20px;
-}
-#java{
-    position: absolute;
-    top: 20px;
-    left: 20px;
-}
-#greenfoot{
-    position: absolute;
-    top: 20px;
-    left: 20px;
-}
+
